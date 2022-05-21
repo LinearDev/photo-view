@@ -1,0 +1,17 @@
+.content {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.imagebg {
+    width: 100%;
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.sideBar {
+    width: 100px;
+}
