@@ -10,9 +10,9 @@ export default function Images() {
             return album.content.map(photo => {
                 return (
                     <div className="col-md-3">
-                        <div style={{backgroundImage: `url(/logo192.png)`}} className='imagebg' />
+                        <div style={{backgroundImage: `url(${photo.src})`}} className='imagebg' />
                         <h4 className='imageTitle'>{photo.title}</h4>
-                        <p className='imageSubText'>description</p>
+                        <p className='imageSubText'>{photo.desc}</p>
                     </div>
                 )
             })

@@ -1,6 +1,6 @@
 [
     {
-        "albumName": "Animals",
+        "albumName": "Dogs",
         "content":[
             {
                 "src": "https://i.pinimg.com/564x/9a/f0/9b/9af09b4ac16d4843b99b01f1e68baf5a.jpg",
@@ -24,7 +24,31 @@
                 "desc": "Download from `Pinterest`"
             }]
     }, {
-        "albumName": "Summer 2019",
-        "content": [{"title": "2"}]
+        "albumName": "Cats",
+        "content": [{
+                "src": "https://i.pinimg.com/564x/b4/e6/23/b4e62319c93c137a70f7a2e8efae5b3b.jpg",
+                "title": "40 Wholesome Pics Of Black Cats To Show They Have Nothing To Do With Bad Luck",
+                "desc": "Download from `Pinterest`"
+            },{
+                "src": "https://i.pinimg.com/564x/ec/5e/9e/ec5e9eadf5ca0f7ae5f81446d161cd59.jpg",
+                "title": "50 Animal Pics That Just Don’t Make Any Sense, As Shared On This Instagram Account",
+                "desc": "Download from `Pinterest`"
+            },{
+                "src": "https://i.pinimg.com/564x/1b/2a/6f/1b2a6f0b3ebd93f294fe4b2ed1c8eda8.jpg",
+                "title": "24 Times Raccoons Were Good Citizens Of The World",
+                "desc": "Download from `Pinterest`"
+            },{
+                "src": "https://i.pinimg.com/564x/67/7d/9e/677d9e02d8cb03c4984f96aafc2d7f82.jpg",
+                "title": "20 Poodle Cats That Are So Fluffy You’ll Squeal",
+                "desc": "Download from `Pinterest`"
+            },{
+                "src": "https://i.pinimg.com/564x/bd/9c/93/bd9c931ca152a2323a4293ff5ad9846b.jpg",
+                "title": "19 Photos: Sweet Cats Draw Smiles, Funny Cats Bring Laughter",
+                "desc": "Download from `Pinterest`"
+            },{
+                "src": "https://i.pinimg.com/564x/e1/b7/ed/e1b7ed672623a4edbd086bf06d532984.jpg",
+                "title": "15 Insanely Cute Animal Pictures You Should Drop Everything To Enjoy",
+                "desc": "Download from `Pinterest`"
+            }]
     }
 ]
