@@ -10,7 +10,7 @@ export default function App() {
   const setReduxData = useDispatch();
   
   useEffect(() => {
-    fetch('https://raw.githubusercontent.com/LinearDev/photo-page/master/db.json').then((response) => {
+    fetch('https://raw.githubusercontent.com/LinearDev/photo-view/main/db.json').then((response) => {
       if (response.ok) {
         return response.json()
       }
