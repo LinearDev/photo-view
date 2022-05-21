@@ -1,54 +1,77 @@
-[
-    {
-        "albumName": "Dogs",
-        "content":[
-            {
-                "src": "https://i.pinimg.com/564x/9a/f0/9b/9af09b4ac16d4843b99b01f1e68baf5a.jpg",
-                "title": "✧ 𝖆 𝖎 𝖑 𝖊 𝖊 𝖓 ✧",
-                "desc": "Download from `Pinterest`"
-            },{
-                "src": "https://i.pinimg.com/564x/97/dc/36/97dc361fe46afc4bc1845ce771614dc0.jpg",
-                "title": "7 Dogs That Look Like Stuffed Animals (So. Much. Cute.)",
-                "desc": "Download from `Pinterest`"
-            },{
-                "src": "https://i.pinimg.com/564x/cb/d8/61/cbd86178096b06025293ee834b68d908.jpg",
-                "title": "5 Signs Your Dog Misses You While You’re Gone",
-                "desc": "Download from `Pinterest`"
-            },{
-                "src": "https://i.pinimg.com/564x/3b/33/80/3b338062ac414aa0b7321adcf54bd5cb.jpg",
-                "title": "Top 10 Cutest Dog Breeds — Small Cutest Dogs We Can’t Get Enough Of",
-                "desc": "Download from `Pinterest`"
-            },{
-                "src": "https://i.pinimg.com/564x/2c/bd/7a/2cbd7a4170f025cdc749a7e43dbfd506.jpg",
-                "title": "Caring Canine | A Dogs Love",
-                "desc": "Download from `Pinterest`"
-            }]
-    }, {
-        "albumName": "Cats",
-        "content": [{
-                "src": "https://i.pinimg.com/564x/b4/e6/23/b4e62319c93c137a70f7a2e8efae5b3b.jpg",
-                "title": "40 Wholesome Pics Of Black Cats To Show They Have Nothing To Do With Bad Luck",
-                "desc": "Download from `Pinterest`"
-            },{
-                "src": "https://i.pinimg.com/564x/ec/5e/9e/ec5e9eadf5ca0f7ae5f81446d161cd59.jpg",
-                "title": "50 Animal Pics That Just Don’t Make Any Sense, As Shared On This Instagram Account",
-                "desc": "Download from `Pinterest`"
-            },{
-                "src": "https://i.pinimg.com/564x/1b/2a/6f/1b2a6f0b3ebd93f294fe4b2ed1c8eda8.jpg",
-                "title": "24 Times Raccoons Were Good Citizens Of The World",
-                "desc": "Download from `Pinterest`"
-            },{
-                "src": "https://i.pinimg.com/564x/67/7d/9e/677d9e02d8cb03c4984f96aafc2d7f82.jpg",
-                "title": "20 Poodle Cats That Are So Fluffy You’ll Squeal",
-                "desc": "Download from `Pinterest`"
-            },{
-                "src": "https://i.pinimg.com/564x/bd/9c/93/bd9c931ca152a2323a4293ff5ad9846b.jpg",
-                "title": "19 Photos: Sweet Cats Draw Smiles, Funny Cats Bring Laughter",
-                "desc": "Download from `Pinterest`"
-            },{
-                "src": "https://i.pinimg.com/564x/e1/b7/ed/e1b7ed672623a4edbd086bf06d532984.jpg",
-                "title": "15 Insanely Cute Animal Pictures You Should Drop Everything To Enjoy",
-                "desc": "Download from `Pinterest`"
-            }]
-    }
-]
+[{
+    "albumName": "Dogs",
+    "content":[{
+            "src": "https://i.pinimg.com/564x/9a/f0/9b/9af09b4ac16d4843b99b01f1e68baf5a.jpg",
+            "title": "✧ 𝖆 𝖎 𝖑 𝖊 𝖊 𝖓 ✧",
+            "desc": "Download from `Pinterest`"
+        },{
+            "src": "https://i.pinimg.com/564x/97/dc/36/97dc361fe46afc4bc1845ce771614dc0.jpg",
+            "title": "7 Dogs That Look Like Stuffed Animals (So. Much. Cute.)",
+            "desc": "Download from `Pinterest`"
+        },{
+            "src": "https://i.pinimg.com/564x/cb/d8/61/cbd86178096b06025293ee834b68d908.jpg",
+            "title": "5 Signs Your Dog Misses You While You’re Gone",
+            "desc": "Download from `Pinterest`"
+        },{
+            "src": "https://i.pinimg.com/564x/3b/33/80/3b338062ac414aa0b7321adcf54bd5cb.jpg",
+            "title": "Top 10 Cutest Dog Breeds — Small Cutest Dogs We Can’t Get Enough Of",
+            "desc": "Download from `Pinterest`"
+        },{
+            "src": "https://i.pinimg.com/564x/2c/bd/7a/2cbd7a4170f025cdc749a7e43dbfd506.jpg",
+            "title": "Caring Canine | A Dogs Love",
+            "desc": "Download from `Pinterest`"
+        }
+    ]
+},{
+    "albumName": "Cats",
+    "content": [{
+            "src": "https://i.pinimg.com/564x/b4/e6/23/b4e62319c93c137a70f7a2e8efae5b3b.jpg",
+            "title": "40 Wholesome Pics Of Black Cats To Show They Have Nothing To Do With Bad Luck",
+            "desc": "Download from `Pinterest`"
+        },{
+            "src": "https://i.pinimg.com/564x/ec/5e/9e/ec5e9eadf5ca0f7ae5f81446d161cd59.jpg",
+            "title": "50 Animal Pics That Just Don’t Make Any Sense, As Shared On This Instagram Account",
+            "desc": "Download from `Pinterest`"
+        },{
+            "src": "https://i.pinimg.com/564x/1b/2a/6f/1b2a6f0b3ebd93f294fe4b2ed1c8eda8.jpg",
+            "title": "24 Times Raccoons Were Good Citizens Of The World",
+            "desc": "Download from `Pinterest`"
+        },{
+            "src": "https://i.pinimg.com/564x/67/7d/9e/677d9e02d8cb03c4984f96aafc2d7f82.jpg",
+            "title": "20 Poodle Cats That Are So Fluffy You’ll Squeal",
+            "desc": "Download from `Pinterest`"
+        },{
+            "src": "https://i.pinimg.com/564x/bd/9c/93/bd9c931ca152a2323a4293ff5ad9846b.jpg",
+            "title": "19 Photos: Sweet Cats Draw Smiles, Funny Cats Bring Laughter",
+            "desc": "Download from `Pinterest`"
+        },{
+            "src": "https://i.pinimg.com/564x/e1/b7/ed/e1b7ed672623a4edbd086bf06d532984.jpg",
+            "title": "15 Insanely Cute Animal Pictures You Should Drop Everything To Enjoy",
+            "desc": "Download from `Pinterest`"
+        }
+    ]
+},{
+    "albumName": "Ducks",
+    "content": [{
+            "src": "https://i.pinimg.com/564x/15/6d/07/156d07b6b351c8c3178a4333ce085431.jpg",
+            "title": "",
+            "desc": "Download from `Pinterest`"
+        },{
+            "src": "https://i.pinimg.com/564x/f0/ce/ba/f0ceba9650cd37e7b80ace385a4440fa.jpg",
+            "title": "Take me home, country roads",
+            "desc": "Download from `Pinterest`"
+        },{
+            "src": "https://i.pinimg.com/564x/8b/9c/d7/8b9cd7e57d3f2df99ea89c009eee79da.jpg",
+            "title": "The cutest little duck - Animals",
+            "desc": "Download from `Pinterest`"
+        },{
+            "src": "https://i.pinimg.com/564x/6f/ac/d9/6facd9a61b449135186f4332368cdb30.jpg",
+            "title": "Wholesome-Cute-Duck-Pics",
+            "desc": "Download from `Pinterest`"
+        },{
+            "src": "https://i.pinimg.com/564x/89/2a/14/892a146b24cdabb9d2348662acc163df.jpg",
+            "title": "☆",
+            "desc": "Download from `Pinterest`"
+        }
+    ]
+}]
