@@ -12,6 +12,13 @@
     background-size: 100% auto;
 }
 
+.paginationBox {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .sideBar {
     width: 100px;
 }

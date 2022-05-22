@@ -8,7 +8,7 @@ export default function App() {
   const [loading, setLoading] = useState('loading');
   const [data, setData] = useState();
   const setReduxData = useDispatch();
-  
+
   useEffect(() => {
     fetch('https://raw.githubusercontent.com/LinearDev/photo-view/main/db.json').then((response) => {
       if (response.ok) {
@@ -40,9 +40,3 @@ export default function App() {
     );
   } 
 }
-
-/*data.map(album => {
-            return album.content.map(photo => {
-              return <p key={Math.random()}>{photo.title}</p>
-              })
-            })*/
