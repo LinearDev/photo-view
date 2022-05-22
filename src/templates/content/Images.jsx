@@ -1,9 +1,11 @@
+import React from 'react'
+import PropTypes from 'prop-types'
 import Pagination from '../Pagination'
 import '../templates.css'
 
 export default function Images({ images, imagesPerPage, totalImages, paginate }) {
   return (
-    <div className='row col-md-10'>
+    <div className='row col-xl-10 col-md-12'>
         {images.map(photo => (
             <div key={Math.random()} className="col-md-3">
                 <div style={{backgroundImage: `url(${photo.src})`}} className='imagebg' />
@@ -16,4 +18,11 @@ export default function Images({ images, imagesPerPage, totalImages, paginate })
         </div>
     </div>
   )
+}
+
+Images.propTypes = {
+  images: PropTypes.array,
+  imagesPerPage: PropTypes.number,
+  totalImages: PropTypes.number,
+  paginate: PropTypes.func
 }

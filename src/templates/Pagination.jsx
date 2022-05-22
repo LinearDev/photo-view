@@ -1,4 +1,5 @@
-
+import PropTypes from 'prop-types'
+import React from "react";
 
 export default function Pagination({ imagesPerPage, totalImages, paginate }) {
     const pageNumbers = [];
@@ -18,4 +19,11 @@ export default function Pagination({ imagesPerPage, totalImages, paginate }) {
     } else {
         return;
     }
+}
+
+
+Pagination.propTypes = {
+    imagesPerPage: PropTypes.number,
+    totalImages: PropTypes.number,
+    paginate: PropTypes.func
 }

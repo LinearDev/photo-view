@@ -1,3 +1,5 @@
+import React from 'react'
+import PropTypes from 'prop-types';
 import { useDispatch, useSelector } from 'react-redux'
 import '../templates.css'
 
@@ -20,4 +22,8 @@ export default function SideBar({ data }) {
       </div>
     </div>
   )
+}
+
+SideBar.propTypes = {
+  data: PropTypes.array
 }

@@ -22,3 +22,8 @@
 .sideBar {
     width: 100px;
 }
+
+.logoBox {
+    display: flex;
+    font-size: 30px;
+}

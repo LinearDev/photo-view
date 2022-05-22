@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import React, { useState } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import Images from './content/Images'
 import SideBar from './content/SideBar'
@@ -49,8 +49,8 @@ export default function Content() {
     }
   }
 
-  const [currentPage, setCurrentPage] = useState('1')
-  const [imagesPerPage] = useState('10')
+  const [currentPage, setCurrentPage] = useState(1)
+  const [imagesPerPage] = useState(10)
 
   const indexOfLastImage = currentPage * imagesPerPage
   const indexOfFirstImage = indexOfLastImage - imagesPerPage;
